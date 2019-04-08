@@ -1,0 +1,12 @@
+body{
+    font-family: 'Tangarine',serif;
+    background-color: aqua;
+    font-size: 20px;
+    margin:auto;
+
+}
+#nav-bar{
+    margin-bottom: 0px;
+    padding: 0%;
+    background-color: antiquewhite;
+}
